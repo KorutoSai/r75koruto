@@ -78,11 +78,16 @@ width: auto;
 }
 
 
+.form-container {
+    width: 100%;
+    margin: auto;
+}
+
 #form {
     display: flex;
     flex-direction: column;
     margin: auto;
-    width: auto;
+    width: 100%;
 
 }
 
