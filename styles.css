@@ -233,6 +233,15 @@ footer {
     height: 50px;
 
 
+
+
+
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(199, 194, 165);
+}
+
+
     @media only screen and (max-width: 890px) {
 
 
@@ -320,9 +329,3 @@ justify-content: center;
 }
 
 /*mobile*/
-
-
-    display: flex;
-    flex-direction: row;
-    background-color: rgb(199, 194, 165);
-}
