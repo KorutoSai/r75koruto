@@ -75,12 +75,7 @@ width: 500px;
     .nav-link:hover{background-color: rgb(134, 129, 88);
      }
 
-     @media only screen and (max-width: 700px) {
-        .nav-link{
-            padding:0;
-            text-decoration: none;
-            color: black;}
-     }
+   
     
 
 /* Form */
@@ -300,6 +295,8 @@ width: auto;
 }
 
 
+
+
 .form-container {
     width: 100%;
     margin: auto;
@@ -327,5 +324,12 @@ justify-content: center;
 
 
 }
+
+               @media only screen and (max-width: 700px) {
+        .nav-link{
+            padding:0;
+            text-decoration: none;
+            color: black;}
+     }
 
 /*mobile*/
