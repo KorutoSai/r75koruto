@@ -267,6 +267,8 @@ footer {
 /*mobile*/
  @media only screen and (max-width: 610px) { 
 
+     #header-content h1{ font-size: 1.5em;}
+
     .header-container {
         width: 100%;
         height: 250px;
@@ -294,6 +296,10 @@ footer {
 width: auto;
 }
 
+.content-container {
+    width: 100%;
+    margin: auto;
+}     
 
 
 
@@ -320,6 +326,12 @@ justify-content: center;
     margin: 20px;
 }
 
+.variants {
+    width: auto;
+    height: auto;
+    dispay: flex;
+    flex-direction: column;
+}     
 
 
 
