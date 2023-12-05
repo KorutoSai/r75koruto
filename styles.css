@@ -139,7 +139,7 @@ input[type=reset] {
 
     display: flex;
     flex-direction: row;
-    margin: 20px;
+    padding: 20px;
 }
 
 
@@ -336,7 +336,7 @@ width: auto;
     display: flex;
 flex-wrap: wrap;
 justify-content: center;
-    margin: 20px;
+    padding: 20px;
 }
 
 .variants {
